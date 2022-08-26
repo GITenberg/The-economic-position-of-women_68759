@@ -1,0 +1,26 @@
+_repo: The-economic-position-of-women_68759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Science, The Academy of Political
+    gutenberg_agent_id: '54934'
+    url: http://www.gutenberg.org/2009/agents/54934
+description: ''
+gutenberg_issued: '2022-08-15'
+identifiers:
+  gutenberg: '68759'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924014030401/
+pgterms:marc905: 20220429162149author
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Columbia University,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The economic position of women
+url: http://www.gutenberg.org/ebooks/68759
