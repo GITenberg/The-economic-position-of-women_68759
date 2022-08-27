@@ -1,11 +1,16 @@
 _repo: The-economic-position-of-women_68759
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68759-h/images/cover.jpg
 creator:
   author:
     agent_name: Science, The Academy of Political
     gutenberg_agent_id: '54934'
     url: http://www.gutenberg.org/2009/agents/54934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68759#The-economic-position-of-women
 gutenberg_issued: '2022-08-15'
 identifiers:
   gutenberg: '68759'
